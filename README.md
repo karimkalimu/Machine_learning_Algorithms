@@ -1,2 +1,2 @@
 
-/https://karimkalimu.github.io/firsttry.github.io/
+/https://karimkalimu.github.io/.github.io/
