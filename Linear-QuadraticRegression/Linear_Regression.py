@@ -112,8 +112,8 @@ for i in range(MaxIteration):
         plotImageLoss()
 
 #Animation part
-imageio.mimsave('./LinearRegressionLossH.gif', imagesLoss, fps=1)
-imageio.mimsave('./LinearRegressionH.gif', images, fps=1)
+imageio.mimsave('./LinearRegressionLoss.gif', imagesLoss, fps=1)
+imageio.mimsave('./LinearRegression.gif', images, fps=1)
 
 #plt.axis([0, 100, 0, 100])
 plt.plot(x,y, label='Best Line Fit')
