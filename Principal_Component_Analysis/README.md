@@ -1,21 +1,38 @@
 # Principal Component Analysis 
 
-### Principal Component Analysis(PCA) :
+### Principal Component Analysis(PCA) using numpy on 2D data :
 
-#### [K-means_twoClusters](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Linear-QuadraticRegression/Linear_Regression.py)
+#### [PCA](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/PCA.py)
 
-![K-means_twoClusters](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/K_means/K_means_twoClusters.py)
+### PCA  using numpy on MNIST dataset :
 
-![High learning rate](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Linear-QuadraticRegression/GIFS/LinearRegressionLossH.gif)
+#### [PCA_MNSIT](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/PCA_MNIST.py)
 
-### K-means  4 Clusters using Euclidean_Distance and Manhattan_Distance :
+#### Using from 1 to 39 Principal Component(PC) to reconstruct the image and using only 500 images: 
+![means_Euclidean_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_500_39.gif)
 
-#### [Euclidean_Distance vs Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/K_means/K_means_EuclideanVsManhattan.py)
-![means_Euclidean_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/K_means/GIFS/K-means_Euclidean_Distance.gif)
+![means_Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_500_2_39.gif)
 
-![means_Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/K_means/GIFS/K-means_Manhattan_Distance.gif)
+#### Showing the percentage of used PC that used divided by all PC : 
 
+![means_Euclidean_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_Percentage_39_500.gif)
 
+#### Using from 1 to 39 Principal Component to reconstruct the image and using  20000 images: 
 
+![means_Euclidean_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_20000_1_39.gif)
+
+![means_Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_20000_2_39.gif)
+
+#### Showing the percentage of used PC that used divided by all PC : 
+
+![means_Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_Percentage_39_20000.gif)
+
+#### Using from 1 to 96 Principal Component to reconstruct the image and using  20000 images: 
+
+![means_Euclidean_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_20000_96.gif)
+
+#### Showing the percentage of used PC that used divided by all PC : 
+
+![means_Manhattan_Distance](https://github.com/karimkalimu/Machine_learning_Algorithms.github.io/blob/master/Principal_Component_Analysis/GIFS/PCA_Percentage_96.gif)
 
 
