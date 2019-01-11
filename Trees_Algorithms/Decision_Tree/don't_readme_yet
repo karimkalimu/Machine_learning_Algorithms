@@ -1,6 +1,0 @@
-Decision Tree
-
-Decision Tree for classification using numpy and compare it with sklearn.DecisionTreeClassifier :
-Need some more modification , make function for unsampling if some classes have much more data point than other 
-
-To make it for Regression need to add one more function that take average of all point in that final branch 
