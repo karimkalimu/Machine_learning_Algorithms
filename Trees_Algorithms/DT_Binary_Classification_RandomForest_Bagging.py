@@ -368,10 +368,10 @@ def Bagging(x_t, y_t, minimum, Max_Depth, Minimum_GiniScore, Number_DecisionTree
         MakeDecisionTree(x_t_2, y_t_2, minimum, Max_Depth, Minimum_GiniScore)
         Tree_s.append(Tree.copy())
 
-
+##Random_Forest Need modification ##Random_Forest Need modification ##Random_Forest Need modification
 def Random_Forest(x_t, y_t, minimum, Max_Depth, Minimum_GiniScore, Number_DecisionTree = 2,
                   Ratio_subsample = 20, subfeature = 0, downsampling_Raio = 0):
-    #subfeature : maximum number of feature to take in each tree
+    #subfeature : maximum number of feature to take in each tree 
     global Tree
     global Tree_s
     global Features
