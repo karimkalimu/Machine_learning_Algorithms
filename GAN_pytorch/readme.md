@@ -12,12 +12,12 @@
 * Item Batch normalization after each hidden layer 
 * Item LeakyReLU activation function
 
-### Some Images Produced :
+### Some Generated Images  :
 
 ![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/zero.png)|
-![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/one.png)
-![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/two.png)
-![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/three.png)
+![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/one.png)|
+![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/two.png)|
+![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/three.png)|
 ![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/four.png)
 ![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/five.png)
 ![GitHub Logo](https://github.com/karimkalimu/Machine_learning_Algorithms/blob/master/GAN_pytorch/Images/six.png)
