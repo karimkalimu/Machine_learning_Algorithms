@@ -18,7 +18,6 @@ r_y = np.random.normal(0,2000,1000)
 r_x = np.random.normal(0,30,1000)
 
 #Now we add the noise to the line to make it a liitle bit like normal data
-y_r = y + r_y
 x_r = x + r_x
 
 #Initialize the weights, w1 slope , w0 bias 
@@ -117,7 +116,7 @@ imageio.mimsave('./LinearRegression.gif', images, fps=1)
 
 #plt.axis([0, 100, 0, 100])
 plt.plot(x,y, label='Best Line Fit')
-plt.scatter(x_r, y_r, marker = '*',color = 'k', label='The real data')
+plt.scatter(x_r, y, marker = '*',color = 'k', label='The real data')
 plt.plot(x_r,Predict(), label='Prediction Line')
 plt.legend()
 
