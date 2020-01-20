@@ -58,7 +58,7 @@ im_line, im_loss = [],[]
 def plotImageLine():
     fig, ax = plt.subplots(figsize=(10,5))
     plt.plot(x,y, label='Best Line Fit')
-    plt.scatter(x_r, y_r, marker = '*',color = 'k', label='The real data')
+    plt.scatter(x_r, y, marker = '*',color = 'k', label='The real data')
     ax.plot(x_r,Predict(), label='Prediction Line')
     ax.legend()
     ax.grid()
